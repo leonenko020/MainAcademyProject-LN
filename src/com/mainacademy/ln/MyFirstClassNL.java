@@ -9,8 +9,12 @@ import java.util.Scanner;
 public class MyFirstClassNL {
 
     public static void main(String[] args) {
-        String name = "Natalia";
-        System.out.println(name);}}
+
+        int a;
+        Scanner scan = new Scanner(System.in);
+        a = scan.nextInt();
+        scan.close();
+        System.out.println(a*a);}}
 
 
 

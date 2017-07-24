@@ -10,11 +10,12 @@ public class MyFirstClassNL {
 
     public static void main(String[] args) {
 
-        int a;
-        Scanner scan = new Scanner(System.in);
-        a = scan.nextInt();
-        scan.close();
-        System.out.println(a*a);}}
+        int a = 1;
+        int b = 3;
+        int c = 9;
+        int d = 27;
+        int result = - a + b - c + d;
+        System.out.println(result);}}
 
 
 

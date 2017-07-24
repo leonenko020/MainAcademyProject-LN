@@ -8,24 +8,15 @@ package com.mainacademy.ln;
 public class MyFirstClassNL {
 
     public static void main(String[] args) {
-
         int a = 3;
-        // int a = 10;
+        //a = 10;
         int b = 6;
-        b = 12;
+        //b = 12;
         int summa = 1 + a + b;
         summa = 2 + a + b;
         summa = 3 + a + b;
-        //int summa = 4 + a + b;
+        //summa = 4 + a + b;
         System.out.println("summa = " + summa);}}
-
-
-
-
-
-
-
-
 
 
 

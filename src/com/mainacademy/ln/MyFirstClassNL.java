@@ -13,19 +13,18 @@ public class MyFirstClassNL {
 
     public static void main(String[] args) {
 
-        /*task1
+        /*//task1
         String name = "Natalia";
         System.out.println(name);*/
 
-        /* task2
+        /*//task2
         int a;
         Scanner scan = new Scanner(System.in);
         a = scan.nextInt();
         float square = a*a;
         System.out.println(square);*/
 
-
-        /*task 3
+        /*//task 3
         int a = 1;
         int b = 3;
         int c = 9;
@@ -33,7 +32,7 @@ public class MyFirstClassNL {
         int result = - a + b - c + d;
         System.out.println(result);*/
 
-        /* task 4
+        /*// task 4
         int a = 3;
         // a = 10;
         int b = 6;
@@ -45,7 +44,8 @@ public class MyFirstClassNL {
 
         System.out.println("summa = " + summa);*/
 
-        /*//String s = "15";
+        /*//task5
+        //String s = "15";
         int a = 5;
         //int z = 18;
         int d = 18;

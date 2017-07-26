@@ -1,6 +1,10 @@
 package com.mainacademy.ln;
 
 
+import java.util.Scanner;
+
+import static java.lang.System.*;
+
 /**
  * Created by 110-15 on 20.07.2017.
  */
@@ -8,39 +12,45 @@ package com.mainacademy.ln;
 public class MyFirstClassNL {
 
     public static void main(String[] args) {
-        //Площадь квадрата
-        float a = 2;
+
+        /*task1
+        String name = "Natalia";
+        System.out.println(name);*/
+
+        /* task2
+        int a;
+        Scanner scan = new Scanner(System.in);
+        a = scan.nextInt();
         float square = a*a;
-        System.out.println(square);
+        System.out.println(square);*/
 
-        //Площадь прямоугольника
-        int d = 2;
+
+        /*task 3
+        int a = 1;
         int b = 3;
-        int c = d*b;
-        System.out.println(c);//
+        int c = 9;
+        int d = 27;
+        int result = - a + b - c + d;
+        System.out.println(result);*/
 
-        //int x=10;
-        //int y=20;
-        //String S1 = "y-x не больше 10";
-        //if ((y-x)>11) {
-        //
-        //System.out.println(S1);}
-        //
-        //else if ((y-x)==10){String S2 = "y-x равно 10";
-        //System.out.println(S2);
-        //}
-        //else {
-        //String S3 = "y-x не равно ";
-        //System.out.println(S3);
-        int i =20;
-        while ( i> 10)
-            System.out.println("lteration:" + i);
-            i--;
-        for (int j=8; j<10; j+=3) {
-            System.out.println("lteration:" + j);
-        }}}
+        /* task 4
+        int a = 3;
+        // a = 10;
+        int b = 6;
+        //int b = 12;
+        int summa = 1 + a + b;
+        summa = 2 + a + b;
+        summa = 3 + a + b;
+        //summa = 4 + a + b;
 
+        System.out.println("summa = " + summa);*/
 
-
-
+        /*//String s = "15";
+        int a = 5;
+        //int z = 18;
+        int d = 18;
+        int c = a + d;
+        String b = " better then ";
+        System.out.println(a + b + c);*/
+    }}
 
